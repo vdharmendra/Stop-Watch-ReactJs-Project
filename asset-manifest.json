@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vdharmendra/Stop-Watch-ReactJs-Project/static/css/main.50dd24e3.css",
+    "main.js": "/vdharmendra/Stop-Watch-ReactJs-Project/static/js/main.755c6052.js",
+    "static/js/453.7b6aec68.chunk.js": "/vdharmendra/Stop-Watch-ReactJs-Project/static/js/453.7b6aec68.chunk.js",
+    "index.html": "/vdharmendra/Stop-Watch-ReactJs-Project/index.html",
+    "main.50dd24e3.css.map": "/vdharmendra/Stop-Watch-ReactJs-Project/static/css/main.50dd24e3.css.map",
+    "main.755c6052.js.map": "/vdharmendra/Stop-Watch-ReactJs-Project/static/js/main.755c6052.js.map",
+    "453.7b6aec68.chunk.js.map": "/vdharmendra/Stop-Watch-ReactJs-Project/static/js/453.7b6aec68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50dd24e3.css",
+    "static/js/main.755c6052.js"
+  ]
+}
